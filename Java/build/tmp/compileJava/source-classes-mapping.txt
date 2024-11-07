@@ -1,0 +1,6 @@
+com/gildedrose/PremiumItem.java
+ com.gildedrose.PremiumItem
+com/gildedrose/GildedRose.java
+ com.gildedrose.GildedRose
+com/gildedrose/Item.java
+ com.gildedrose.Item
